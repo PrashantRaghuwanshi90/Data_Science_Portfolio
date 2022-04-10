@@ -10,7 +10,7 @@ Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 Contents
 Machine Learning
 
-IDENTIFICATION OF RICE VARIETIES : A model to predict the rice variety of a given rice sample for food processing company. 
+Identification of Rice Varities : A model to predict the Variety of a Rice grain from the given preprocessed images of rice samples datasets by using multiple Classification ML Algorithms.
 
 
 Natural Language Processing
