@@ -14,7 +14,7 @@ A model to predict the Variety of a Rice grain from the given preprocessed image
 [Forecast Health Insurance Claims](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/main/Forecast%20Health%20Insurance%20Claims/Forecast%20Health%20Insurance%20Claims%20(Regression).ipynb)
 (Supervised-Regression)
 A model to Analyze a health insurance company's data to predict future insurance claim amounts and identify factors that lead to higher healthcare costs. 
-<img src="images/claim.jpg?raw=true"/>
+<img src="images/claim.png?raw=true"/>
 
 ---
 [Financial services customers clusters](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/6a39cdf3c8c782b693fd454f19eeda982c6341c7/Financial%20Services%20Marketing%20Clusters/financial_services_marketing_clusters_notebook.ipynb)
