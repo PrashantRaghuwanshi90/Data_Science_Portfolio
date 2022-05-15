@@ -8,12 +8,14 @@ Repository containing portfolio of data science projects completed by me for aca
 [Identification of Rice Varities](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/4110a9c2b3b71c0a27b881f2209edccb73f7e586/Identification%20of%20Rice%20Varities/IdentificationOfriceVarities_Classification_Notebook_Prashant_Raghuwanshi.ipynb)
 (Supervised-Classification)
 A model to predict the Variety of a Rice grain from the given preprocessed images of rice samples datasets by using multiple Classification ML Algorithms
+
 <img src="images/classification_problem.jpg?raw=true"/>
 
 ---
 [Forecast Health Insurance Claims](https://github.com/PrashantRaghuwanshi90/Data_Science_Portfolio/blob/main/Forecast%20Health%20Insurance%20Claims/Forecast%20Health%20Insurance%20Claims%20(Regression).ipynb)
 (Supervised-Regression)
-A model to Analyze a health insurance company's data to predict future insurance claim amounts and identify factors that lead to higher healthcare costs. 
+A model to Analyze a health insurance company's data to predict future insurance claim amounts and identify factors that lead to higher healthcare costs.
+
 <img src="images/claim.png?raw=true"/>
 
 ---
